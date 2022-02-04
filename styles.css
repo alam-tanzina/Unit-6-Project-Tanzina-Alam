@@ -1,0 +1,56 @@
+body {
+    color: white;
+    text-align: center;
+    font-family: "Friz Quadrata";
+    background-color: #309cc9;
+}
+
+.title { 
+    font-size: 50px;
+    font-weight: 800; 
+    padding: 20px; 
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+}
+
+p {
+    font-size: 40px;
+    font-weight: 800;
+    display: none;
+}
+
+
+.bush {
+    height: 350px;
+}
+
+.hungryporo, .thirdImage, .fourthImage, .fifthImage, .braum , .porodance {
+    display: none;
+    height: 300px;
+}
+
+.petoption, .runoption, .turnoption {
+    display: none;
+}
+
+.start-button , .petoption, .runoption , .turnoption{
+    height: 40px; 
+    border: 2px #2216a6 groove;
+    background-color: #edf6fa;
+	font-family: "Friz Quadrata";
+    font-size: 20px;
+    color: #8a5330;
+    margin:20px;
+   
+}
+
+h1 {
+    color: white;
+    font-size: 70px;
+    background-color: #2216a6;
+    display: flex;
+}
